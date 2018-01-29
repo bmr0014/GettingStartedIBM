@@ -2,6 +2,8 @@
  * Module dependencies.
  */
 
+//Edits have been made to this file for the sake of an assignment
+
 var express = require('express'),
     routes = require('./routes'),
     user = require('./routes/user'),
